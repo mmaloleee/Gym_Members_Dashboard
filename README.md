@@ -28,3 +28,9 @@ The dataset provides various insights about gym members of a particular gym. In 
 ![Screenshot](https://raw.githubusercontent.com/mmaloleee/Gym_Members_Dashboard/refs/heads/main/dashboard.png?raw=true)
 
 ## Conclusions
+- Men drink more water on average than women. There are no significant diferences in the age overview.
+- Women's favourite workout type is cardio but they don't really like yoga. Men enjoy heavy lifting but the are not into HIIT.
+- Strength wrokout and HIIT are the most and least popular in general.
+- There are no signifficant differences in workout types popularity. The distribution is approximately equal across gender.
+- More experienced members tend to train longer. Beginner and advanced women's have longer average session duration men's, but the differences are not significant.
+- Among women, regardless of age, the most popular body mass clasification is normal BMI. Next the most popular classification according to BMI is overweight and underweight. There are very few obese women. Men the most popular BMI classification is also "normal", except young adult men, who are mostly classified as overweight. Older men are extremly obese. The second most popular body mass classification depends on age. For adults it's overweight, olds and young adults have optimal BMI, young men are overweighted. 
